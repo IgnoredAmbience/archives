@@ -1,4 +1,5 @@
-theme: jekyll-theme-primer
+#theme: jekyll-theme-primer
+remote_theme: ignoredambience/tc39-website@repo-as-jekyll-theme
 
 plugins:
   - jekyll-sitemap
