@@ -5,3 +5,9 @@ Archival resources for TC39.
   Prior to April 2014, issues were managed at bugs.ecmascript.org, which is now offline. This provides a static archive
   of tickets from that site. Between April 2014 and December 2015, issues may have been reported to either the Bugzilla
   tracker or the GitHub repository.
+
+
+{{ site.url }}
+{{ site.description }}
+{{ site.baseurl }}
+{{ site.title }}
